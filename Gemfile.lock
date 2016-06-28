@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.3)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  colorize
